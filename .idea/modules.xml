@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Map/Map.iml" filepath="$PROJECT_DIR$/Map/Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Set/Set.iml" filepath="$PROJECT_DIR$/Set/Set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trabalhando com Collections em Java.iml" filepath="$PROJECT_DIR$/Trabalhando com Collections em Java.iml" />
+    </modules>
+  </component>
+</project>
